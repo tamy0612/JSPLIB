@@ -4,21 +4,21 @@
     "jobs" : 10,
     "machines" : 10,
     "optimum" : 1234,
-    "source" : "instances/abz5"
+    "path" : "instances/abz5"
   },
   {
     "name" : "abz6",
     "jobs" : 10,
     "machines" : 10,
     "optimum" : 943,
-    "source" : "instances/abz6"
+    "path" : "instances/abz6"
   },
   {
     "name" : "abz7",
     "jobs" : 20,
     "machines" : 15,
     "optimum" : 656,
-    "source" : "instances/abz7"
+    "path" : "instances/abz7"
   },
   {
     "name" : "abz8",
@@ -29,7 +29,7 @@
       "upper" : 665,
       "lower" : 645
     },
-    "source" : "instances/abz8"
+    "path" : "instances/abz8"
   },
   {
     "name" : "abz9",
@@ -40,27 +40,307 @@
       "upper" : 679,
       "lower" : 661
     },
-    "source" : "instances/abz9"
+    "path" : "instances/abz9"
   },
   {
     "name" : "ft06",
     "jobs" : 6,
     "machines" : 6,
     "optimum" : 55,
-    "source" : "instances/ft06"
+    "path" : "instances/ft06"
   },
   {
     "name" : "ft10",
     "jobs" : 10,
     "machines" : 10,
     "optimum" : 930,
-    "source" : "instances/ft10"
+    "path" : "instances/ft10"
   },
   {
     "name" : "ft20",
     "jobs" : 20,
     "machines" : 5,
     "optimum" : 1165,
-    "source" : "instances/ft20"
+    "path" : "instances/ft20"
+  },
+  {
+    "name" : "la01",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 666,
+    "path" : "instances/la01"
+  },
+  {
+    "name" : "la02",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 655,
+    "path" : "instances/la02"
+  },
+  {
+    "name" : "la03",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 597,
+    "path" : "instances/la03"
+  },
+  {
+    "name" : "la04",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 590,
+    "path" : "instances/la04"
+  },
+  {
+    "name" : "la05",
+    "jobs" : 10,
+    "machines" : 5,
+    "optimum" : 593,
+    "path" : "instances/la05"
+  },
+  {
+    "name" : "la06",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 926,
+    "path" : "instances/la06"
+  },
+  {
+    "name" : "la07",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 890,
+    "path" : "instances/la07"
+  },
+  {
+    "name" : "la08",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 863,
+    "path" : "instances/la08"
+  },
+  {
+    "name" : "la09",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 951,
+    "path" : "instances/la09"
+  },
+  {
+    "name" : "la10",
+    "jobs" : 15,
+    "machines" : 5,
+    "optimum" : 958,
+    "path" : "instances/la10"
+  },
+  {
+    "name" : "la11",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1222,
+    "path" : "instances/la11"
+  },
+  {
+    "name" : "la12",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1039,
+    "path" : "instances/la12"
+  },
+  {
+    "name" : "la13",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1150,
+    "path" : "instances/la13"
+  },
+  {
+    "name" : "la14",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1292,
+    "path" : "instances/la14"
+  },
+  {
+    "name" : "la15",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1207,
+    "path" : "instances/la15"
+  },
+  {
+    "name" : "la16",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 945,
+    "path" : "instances/la16"
+  },
+  {
+    "name" : "la17",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 784,
+    "path" : "instances/la17"
+  },
+  {
+    "name" : "la18",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 848,
+    "path" : "instances/la18"
+  },
+  {
+    "name" : "la19",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 842,
+    "path" : "instances/la19"
+  },
+  {
+    "name" : "la20",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 902,
+    "path" : "instances/la20"
+  },
+  {
+    "name" : "la21",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 1046,
+    "path" : "instances/la21"
+  },
+  {
+    "name" : "la22",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 927,
+    "path" : "instances/la22"
+  },
+  {
+    "name" : "la23",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 1032,
+    "path" : "instances/la23"
+  },
+  {
+    "name" : "la24",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 935,
+    "path" : "instances/la24"
+  },
+  {
+    "name" : "la25",
+    "jobs" : 15,
+    "machines" : 10,
+    "optimum" : 977,
+    "path" : "instances/la25"
+  },
+  {
+    "name" : "la26",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1218,
+    "path" : "instances/la26"
+  },
+  {
+    "name" : "la27",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1235,
+    "path" : "instances/la27"
+  },
+  {
+    "name" : "la28",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1216,
+    "path" : "instances/la28"
+  },
+  {
+    "name" : "la29",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1152,
+    "path" : "instances/la29"
+  },
+  {
+    "name" : "la30",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1355,
+    "path" : "instances/la30"
+  },
+  {
+    "name" : "la31",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1784,
+    "path" : "instances/la31"
+  },
+  {
+    "name" : "la32",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1850,
+    "path" : "instances/la32"
+  },
+  {
+    "name" : "la33",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1719,
+    "path" : "instances/la33"
+  },
+  {
+    "name" : "la34",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1721,
+    "path" : "instances/la34"
+  },
+  {
+    "name" : "la35",
+    "jobs" : 30,
+    "machines" : 10,
+    "optimum" : 1888,
+    "path" : "instances/la35"
+  },
+  {
+    "name" : "la36",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1268,
+    "path" : "instances/la36"
+  },
+  {
+    "name" : "la37",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1397,
+    "path" : "instances/la37"
+  },
+  {
+    "name" : "la38",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1196,
+    "path" : "instances/la38"
+  },
+  {
+    "name" : "la39",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1233,
+    "path" : "instances/la39"
+  },
+  {
+    "name" : "la40",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1222,
+    "path" : "instances/la40"
   }
 ]
