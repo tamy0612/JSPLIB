@@ -592,5 +592,49 @@
     "machines" : 10,
     "optimum" : 2823,
     "path" : "instances/swv20"
+  },
+  {
+    "name" : "yn1",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 885,
+      "lower" : 826
+    },
+    "path" : "instances/yn1"
+  },
+  {
+    "name" : "yn2",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 909,
+      "lower" : 861
+    },
+    "path" : "instances/yn2"
+  },
+  {
+    "name" : "yn3",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 892,
+      "lower" : 827
+    },
+    "path" : "instances/yn3"
+  },
+  {
+    "name" : "yn4",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 968,
+      "lower" : 918
+    },
+    "path" : "instances/yn4"
   }
 ]
