@@ -342,5 +342,75 @@
     "machines" : 15,
     "optimum" : 1222,
     "path" : "instances/la40"
+  },
+  {
+    "name" : "orb01",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 1059,
+    "path" : "instances/orb01"
+  },
+  {
+    "name" : "orb02",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 888,
+    "path" : "instances/orb02"
+  },
+  {
+    "name" : "orb03",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 1005,
+    "path" : "instances/orb03"
+  },
+  {
+    "name" : "orb04",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 1005,
+    "path" : "instances/orb04"
+  },
+  {
+    "name" : "orb05",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 887,
+    "path" : "instances/orb05"
+  },
+  {
+    "name" : "orb06",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 1010,
+    "path" : "instances/orb06"
+  },
+  {
+    "name" : "orb07",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 397,
+    "path" : "instances/orb07"
+  },
+  {
+    "name" : "orb08",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 899,
+    "path" : "instances/orb08"
+  },
+  {
+    "name" : "orb09",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 934,
+    "path" : "instances/orb09"
+  },
+  {
+    "name" : "orb10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 944,
+    "path" : "instances/orb10"
   }
 ]
