@@ -1,0 +1,45 @@
+[
+  {
+    "name" : "abz5",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 1234,
+    "source" : "instances/abz5"
+  },
+  {
+    "name" : "abz6",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 943,
+    "source" : "instances/abz6"
+  },
+  {
+    "name" : "abz7",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : 656,
+    "source" : "instances/abz7"
+  },
+  {
+    "name" : "abz8",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 665,
+      "lower" : 645
+    },
+    "source" : "instances/abz8"
+  },
+  {
+    "name" : "abz9",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 679,
+      "lower" : 661
+    },
+    "source" : "instances/abz9"
+  }
+]
