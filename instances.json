@@ -41,5 +41,26 @@
       "lower" : 661
     },
     "source" : "instances/abz9"
+  },
+  {
+    "name" : "ft06",
+    "jobs" : 6,
+    "machines" : 6,
+    "optimum" : 55,
+    "source" : "instances/ft06"
+  },
+  {
+    "name" : "ft10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : 930,
+    "source" : "instances/ft10"
+  },
+  {
+    "name" : "ft20",
+    "jobs" : 20,
+    "machines" : 5,
+    "optimum" : 1165,
+    "source" : "instances/ft20"
   }
 ]
