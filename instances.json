@@ -412,5 +412,185 @@
     "machines" : 10,
     "optimum" : 944,
     "path" : "instances/orb10"
+  },
+  {
+    "name" : "swv01",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1407,
+    "path" : "instances/swv01"
+  },
+  {
+    "name" : "swv02",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1475,
+    "path" : "instances/swv02"
+  },
+  {
+    "name" : "swv03",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1398,
+      "lower" : 1369
+    },
+    "path" : "instances/swv03"
+  },
+  {
+    "name" : "swv04",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1474,
+      "lower" : 1450
+    },
+    "path" : "instances/swv04"
+  },
+  {
+    "name" : "swv05",
+    "jobs" : 20,
+    "machines" : 10,
+    "optimum" : 1424,
+    "path" : "instances/swv05"
+  },
+  {
+    "name" : "swv06",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1678,
+      "lower" : 1591
+    },
+    "path" : "instances/swv06"
+  },
+  {
+    "name" : "swv07",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1600,
+      "lower" : 1446
+    },
+    "path" : "instances/swv07"
+  },
+  {
+    "name" : "swv08",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1763,
+      "lower" : 1640
+    },
+    "path" : "instances/swv08"
+  },
+  {
+    "name" : "swv09",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1661,
+      "lower" : 1604
+    },
+    "path" : "instances/swv09"
+  },
+  {
+    "name" : "swv10",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1767,
+      "lower" : 1631
+    },
+    "path" : "instances/swv10"
+  },
+  {
+    "name" : "swv11",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2991,
+      "lower" : 2983
+    },
+    "path" : "instances/swv11"
+  },
+  {
+    "name" : "swv12",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 3003,
+      "lower" : 2972
+    },
+    "path" : "instances/swv12"
+  },
+  {
+    "name" : "swv13",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 3104,
+    "path" : "instances/swv13"
+  },
+  {
+    "name" : "swv14",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 2968,
+    "path" : "instances/swv14"
+  },
+  {
+    "name" : "swv15",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2904,
+      "lower" : 2885
+    },
+    "path" : "instances/swv15"
+  },
+  {
+    "name" : "swv16",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 2924,
+    "path" : "instances/swv16"
+  },
+  {
+    "name" : "swv17",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 2794,
+    "path" : "instances/swv17"
+  },
+  {
+    "name" : "swv18",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 2852,
+    "path" : "instances/swv18"
+  },
+  {
+    "name" : "swv19",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 2843,
+    "path" : "instances/swv19"
+  },
+  {
+    "name" : "swv20",
+    "jobs" : 50,
+    "machines" : 10,
+    "optimum" : 2823,
+    "path" : "instances/swv20"
   }
 ]

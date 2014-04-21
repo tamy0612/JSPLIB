@@ -10,10 +10,8 @@ describe "instances_checker" do
   end
 
   it 'verifies optimum makespan' do
-    @instances.each do |instance|
-      unless instance["optimum"].nil?
-        instance["optimum"].should eq(@optimum[instance["name"]])
-      end
+    @instances.reject{|instance| instance["optimum"].nil? }.each do |instance|
+      instance["optimum"].should eq(@optimum[instance["name"]])
     end
   end
 
@@ -27,6 +25,12 @@ describe "instances_checker" do
     @instances.each do |instance|
       size = open( "#{@pwd}/#{instance["path"]}" ).readlines.reject{|line| line =~ /^#/}[0].split.map(&:to_i)
       [instance["jobs"],instance["machines"]].should eq(size)
+    end
+  end
+
+  it 'verifies bounds' do
+    @instances.select{|instance| instance["optimum"].nil? }.each do |instance|
+      instance["bounds"].tap{|b| break ( !b.nil? && b["upper"] > b["lower"] ) }.should be_true
     end
   end
 
