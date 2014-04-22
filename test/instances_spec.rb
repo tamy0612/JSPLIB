@@ -9,12 +9,6 @@ describe "instances_checker" do
     @optimum = JSON.parse( open("#{@pwd}/test/bestknowns.json").readlines.map(&:chomp).join )
   end
 
-  it 'verifies optimum makespan' do
-    @instances.reject{|instance| instance["optimum"].nil? }.each do |instance|
-      instance["optimum"].should eq(@optimum[instance["name"]])
-    end
-  end
-
   it 'verifies instance file path' do
     @instances.each do |instance|
       File.exist?( "#{@pwd}/#{instance["path"]}" ).should be_true
@@ -30,7 +24,7 @@ describe "instances_checker" do
 
   it 'verifies bounds' do
     @instances.select{|instance| instance["optimum"].nil? }.each do |instance|
-      instance["bounds"].tap{|b| break ( !b.nil? && b["upper"] > b["lower"] ) }.should be_true
+      instance["bounds"].tap{|b| break ( b.nil? || b["upper"] > b["lower"] ) }.should be_true
     end
   end
 

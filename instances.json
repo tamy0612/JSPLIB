@@ -636,5 +636,707 @@
       "lower" : 918
     },
     "path" : "instances/yn4"
+  },
+  {
+    "name" : "ta01",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1231,
+    "path" : "instances/ta01"
+  },
+  {
+    "name" : "ta02",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1244,
+    "path" : "instances/ta02"
+  },
+  {
+    "name" : "ta03",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1218,
+    "path" : "instances/ta03"
+  },
+  {
+    "name" : "ta04",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1175,
+    "path" : "instances/ta04"
+  },
+  {
+    "name" : "ta05",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1224,
+    "path" : "instances/ta05"
+  },
+  {
+    "name" : "ta06",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1238,
+    "path" : "instances/ta06"
+  },
+  {
+    "name" : "ta07",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1227,
+    "path" : "instances/ta07"
+  },
+  {
+    "name" : "ta08",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1217,
+    "path" : "instances/ta08"
+  },
+  {
+    "name" : "ta09",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1274,
+    "path" : "instances/ta09"
+  },
+  {
+    "name" : "ta10",
+    "jobs" : 15,
+    "machines" : 15,
+    "optimum" : 1241,
+    "path" : "instances/ta10"
+  },
+  {
+    "name" : "ta11",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1361,
+      "lower" : 1323
+    },
+    "path" : "instances/ta11"
+  },
+  {
+    "name" : "ta12",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1367,
+      "lower" : 1351
+    },
+    "path" : "instances/ta12"
+  },
+  {
+    "name" : "ta13",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1342,
+      "lower" : 1282
+    },
+    "path" : "instances/ta13"
+  },
+  {
+    "name" : "ta14",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : 1345,
+    "path" : "instances/ta14"
+  },
+  {
+    "name" : "ta15",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1340,
+      "lower" : 1304
+    },
+    "path" : "instances/ta15"
+  },
+  {
+    "name" : "ta16",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1360,
+      "lower" : 1302
+    },
+    "path" : "instances/ta16"
+  },
+  {
+    "name" : "ta17",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : 1462,
+    "path" : "instances/ta17"
+  },
+  {
+    "name" : "ta18",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1396,
+      "lower" : 1369
+    },
+    "path" : "instances/ta18"
+  },
+  {
+    "name" : "ta19",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1335,
+      "lower" : 1297
+    },
+    "path" : "instances/ta19"
+  },
+  {
+    "name" : "ta20",
+    "jobs" : 20,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1351,
+      "lower" : 1318
+    },
+    "path" : "instances/ta20"
+  },
+  {
+    "name" : "ta21",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1644,
+      "lower" : 1539
+    },
+    "path" : "instances/ta21"
+  },
+  {
+    "name" : "ta22",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1600,
+      "lower" : 1511
+    },
+    "path" : "instances/ta22"
+  },
+  {
+    "name" : "ta23",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1557,
+      "lower" : 1472
+    },
+    "path" : "instances/ta23"
+  },
+  {
+    "name" : "ta24",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1647,
+      "lower" : 1602
+    },
+    "path" : "instances/ta24"
+  },
+  {
+    "name" : "ta25",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1595,
+      "lower" : 1504
+    },
+    "path" : "instances/ta25"
+  },
+  {
+    "name" : "ta26",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1645,
+      "lower" : 1539
+    },
+    "path" : "instances/ta26"
+  },
+  {
+    "name" : "ta27",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1680,
+      "lower" : 1616
+    },
+    "path" : "instances/ta27"
+  },
+  {
+    "name" : "ta28",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1614,
+      "lower" : 1591
+    },
+    "path" : "instances/ta28"
+  },
+  {
+    "name" : "ta29",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1635,
+      "lower" : 1514
+    },
+    "path" : "instances/ta29"
+  },
+  {
+    "name" : "ta30",
+    "jobs" : 20,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1584,
+      "lower" : 1473
+    },
+    "path" : "instances/ta30"
+  },
+  {
+    "name" : "ta31",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : 1764,
+    "path" : "instances/ta31"
+  },
+  {
+    "name" : "ta32",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1796,
+      "lower" : 1774
+    },
+    "path" : "instances/ta32"
+  },
+  {
+    "name" : "ta33",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1793,
+      "lower" : 1778
+    },
+    "path" : "instances/ta33"
+  },
+  {
+    "name" : "ta34",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1829,
+      "lower" : 1828
+    },
+    "path" : "instances/ta34"
+  },
+  {
+    "name" : "ta35",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : 2007,
+    "path" : "instances/ta35"
+  },
+  {
+    "name" : "ta36",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : 1819,
+    "path" : "instances/ta36"
+  },
+  {
+    "name" : "ta37",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1778,
+      "lower" : 1771
+    },
+    "path" : "instances/ta37"
+  },
+  {
+    "name" : "ta38",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : 1673,
+    "path" : "instances/ta38"
+  },
+  {
+    "name" : "ta39",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : 1795,
+    "path" : "instances/ta39"
+  },
+  {
+    "name" : "ta40",
+    "jobs" : 30,
+    "machines" : 15,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1674,
+      "lower" : 1631
+    },
+    "path" : "instances/ta40"
+  },
+  {
+    "name" : "ta41",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2018,
+      "lower" : 1859
+    },
+    "path" : "instances/ta41"
+  },
+  {
+    "name" : "ta42",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1956,
+      "lower" : 1867
+    },
+    "path" : "instances/ta42"
+  },
+  {
+    "name" : "ta43",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1859,
+      "lower" : 1809
+    },
+    "path" : "instances/ta43"
+  },
+  {
+    "name" : "ta44",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1984,
+      "lower" : 1927
+    },
+    "path" : "instances/ta44"
+  },
+  {
+    "name" : "ta45",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2000,
+      "lower" : 1997
+    },
+    "path" : "instances/ta45"
+  },
+  {
+    "name" : "ta46",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 2021,
+      "lower" : 1940
+    },
+    "path" : "instances/ta46"
+  },
+  {
+    "name" : "ta47",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1903,
+      "lower" : 1789
+    },
+    "path" : "instances/ta47"
+  },
+  {
+    "name" : "ta48",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1952,
+      "lower" : 1912
+    },
+    "path" : "instances/ta48"
+  },
+  {
+    "name" : "ta49",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1968,
+      "lower" : 1915
+    },
+    "path" : "instances/ta49"
+  },
+  {
+    "name" : "ta50",
+    "jobs" : 30,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1926,
+      "lower" : 1807
+    },
+    "path" : "instances/ta50"
+  },
+  {
+    "name" : "ta51",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2760,
+    "path" : "instances/ta51"
+  },
+  {
+    "name" : "ta52",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2756,
+    "path" : "instances/ta52"
+  },
+  {
+    "name" : "ta53",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2717,
+    "path" : "instances/ta53"
+  },
+  {
+    "name" : "ta54",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2839,
+    "path" : "instances/ta54"
+  },
+  {
+    "name" : "ta55",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2679,
+    "path" : "instances/ta55"
+  },
+  {
+    "name" : "ta56",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2781,
+    "path" : "instances/ta56"
+  },
+  {
+    "name" : "ta57",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2943,
+    "path" : "instances/ta57"
+  },
+  {
+    "name" : "ta58",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2885,
+    "path" : "instances/ta58"
+  },
+  {
+    "name" : "ta59",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2655,
+    "path" : "instances/ta59"
+  },
+  {
+    "name" : "ta60",
+    "jobs" : 50,
+    "machines" : 15,
+    "optimum" : 2723,
+    "path" : "instances/ta60"
+  },
+  {
+    "name" : "ta61",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2868,
+    "path" : "instances/ta61"
+  },
+  {
+    "name" : "ta62",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2869,
+    "path" : "instances/ta62"
+  },
+  {
+    "name" : "ta63",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2755,
+    "path" : "instances/ta63"
+  },
+  {
+    "name" : "ta64",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2702,
+    "path" : "instances/ta64"
+  },
+  {
+    "name" : "ta65",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2725,
+    "path" : "instances/ta65"
+  },
+  {
+    "name" : "ta66",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2845,
+    "path" : "instances/ta66"
+  },
+  {
+    "name" : "ta67",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2825,
+    "path" : "instances/ta67"
+  },
+  {
+    "name" : "ta68",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2784,
+    "path" : "instances/ta68"
+  },
+  {
+    "name" : "ta69",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 3071,
+    "path" : "instances/ta69"
+  },
+  {
+    "name" : "ta70",
+    "jobs" : 50,
+    "machines" : 20,
+    "optimum" : 2995,
+    "path" : "instances/ta70"
+  },
+  {
+    "name" : "ta71",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta71"
+  },
+  {
+    "name" : "ta72",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta72"
+  },
+  {
+    "name" : "ta73",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta73"
+  },
+  {
+    "name" : "ta74",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta74"
+  },
+  {
+    "name" : "ta75",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta75"
+  },
+  {
+    "name" : "ta76",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta76"
+  },
+  {
+    "name" : "ta77",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta77"
+  },
+  {
+    "name" : "ta78",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta78"
+  },
+  {
+    "name" : "ta79",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta79"
+  },
+  {
+    "name" : "ta80",
+    "jobs" : 100,
+    "machines" : 20,
+    "optimum" : null,
+    "bounds" : null,
+    "path" : "instances/ta80"
   }
 ]
