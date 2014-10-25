@@ -12,7 +12,7 @@ if( len(Argv) < 2 ):
 
 Target = Argv[1]
 
-file = open( os.path.join( os.path.dirname( __file__ ), 'instances.json' ), "r" )
+file = open( os.path.join( os.path.dirname( __file__ ), '../instances.json' ), "r" )
 data = json.load( file )
 
 instance = [ inst for inst in data if inst['name'] == Target ]
@@ -20,9 +20,9 @@ if( len(instance) == 0 ):
     raise Exception("There is no instance named %s" % Target)
 
 instance = instance[0]
-path = os.path.abspath( os.path.join(os.path.dirname( __file__ ),instance['path']) )
+path = os.path.abspath( os.path.join(os.path.dirname( __file__ ),"../%s" % instance['path']) )
 optimum = instance['optimum']
-print( optimum )
+
 if( optimum is None ):
     if( instance['bounds'] is None ):
         optimum = "nan"

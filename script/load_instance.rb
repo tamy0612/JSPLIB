@@ -2,7 +2,7 @@ require 'json'
 
 Target = ARGV.first
 
-Root = File.dirname(__FILE__)
+Root = "#{File.dirname(__FILE__)}/../"
 
 file = open("#{Root}/instances.json")
 json = JSON.parse( file.readlines.map(&:chomp).join )
