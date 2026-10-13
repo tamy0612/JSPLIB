@@ -932,7 +932,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1796,
+      "upper" : 1785,
       "lower" : 1774
     },
     "path" : "instances/ta32"
@@ -943,7 +943,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1793,
+      "upper" : 1791,
       "lower" : 1778
     },
     "path" : "instances/ta33"
@@ -1015,7 +1015,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 2018,
+      "upper" : 2006,
       "lower" : 1859
     },
     "path" : "instances/ta41"
@@ -1026,7 +1026,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1956,
+      "upper" : 1937,
       "lower" : 1867
     },
     "path" : "instances/ta42"
@@ -1037,7 +1037,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1859,
+      "upper" : 1846,
       "lower" : 1809
     },
     "path" : "instances/ta43"
@@ -1048,7 +1048,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1984,
+      "upper" : 1979,
       "lower" : 1927
     },
     "path" : "instances/ta44"
@@ -1059,7 +1059,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 2000,
+      "upper" : 1997,
       "lower" : 1997
     },
     "path" : "instances/ta45"
@@ -1081,7 +1081,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1903,
+      "upper" : 1889,
       "lower" : 1789
     },
     "path" : "instances/ta47"
@@ -1103,7 +1103,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1968,
+      "upper" : 1960,
       "lower" : 1915
     },
     "path" : "instances/ta49"
@@ -1114,7 +1114,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1926,
+      "upper" : 1923,
       "lower" : 1807
     },
     "path" : "instances/ta50"
